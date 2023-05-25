@@ -3,7 +3,6 @@
   "version": "2.4.1",
   "description": "Manage your js components",
   "main": "packages/core/core.js",
-  "typings": "./types/core/core.d.ts",
   "repository": {
     "type": "git",
     "url": "https://github.com/sulu/web-js.git"
